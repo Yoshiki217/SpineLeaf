@@ -1,5 +1,12 @@
 # SpineLeaf
 
+# GoBgp
+version: 3.11.0
+## 起動
+```
+gobgpd -f gobgp.conf
+```
+
 # ネトワーク構成図
 ![とぽろじ](topologi/SpineLeaf.drawio.svg)
 
