@@ -18,7 +18,8 @@ _paginate: false
 _class: title-and-body
 -->
 
-#
+# データセンターのネットワーク構成
+## Ip Cross Connect
 
 ---
 
