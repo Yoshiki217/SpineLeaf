@@ -7,7 +7,8 @@ exit
 interface g0/0/1
 ip address 10.0.0.1 /24
 no shutdown
-exsit
+exit
 router bgp 65001
 neighbor 30.0.0.2 remote-as 65002
 network 10.0.0.0 mask 255.255.255.0
+timers bgp 10 30
