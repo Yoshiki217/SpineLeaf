@@ -14,6 +14,7 @@ _paginate: false
 
 ## 林 良輝
 ---
+
 <!-- 
 _class: title-and-body
 -->
@@ -23,3 +24,14 @@ _class: title-and-body
 
 ---
 
+<!-- 
+_class: title-and-body
+-->
+
+# アジェンダ
+
+*  Spine & leaf とは
+*  Spine & leaf の構成
+*  メリット,デメリット
+
+## 
