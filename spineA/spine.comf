@@ -1,6 +1,10 @@
 enable
 configure terminal
 no ip domain-lookup
+line vty 0 4
+password spinea
+login
+transport input ssh
 interface g0/0/0 
 ip address 30.0.0.1 /24
 no shutdown
