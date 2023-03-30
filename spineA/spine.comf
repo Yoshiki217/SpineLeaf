@@ -9,6 +9,9 @@ line vty 0 4
 password spinea
 login
 transport input ssh
+ecec-timeout 0 30
+logging synchronous
+exit
 hostname R1
 interface g0/0/0 
 ip address 30.0.0.1 /24
